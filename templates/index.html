@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>抽奖数据展示</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://www.layuicdn.com/layui/css/layui.css"/>
+</head>
+<body>
+
+<div style="margin-left: 50px" id="test5" class="demo-tree"></div>
+
+<script src="https://www.layuicdn.com/layui/layui.js"></script>
+<!-- 注意：如果你直接复制所有代码到本地，上述 JS 路径需要改成你本地的 -->
+<script>
+    layui.use(['tree', 'util'], function () {
+        var tree = layui.tree
+
+            , data = {{ data | tojson }};
+
+        //点击节点新窗口跳转
+        tree.render({
+            elem: '#test5'
+            , data: data
+            , isJump: true  //link 为参数匹配
+        });
+
+    });
+</script>
+
+</body>
+</html>
