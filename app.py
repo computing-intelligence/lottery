@@ -12,7 +12,6 @@ app = Flask(__name__)
 def lottery():
     jf = JsonFile({})
     data = parse_data(jf.lucky_guys)
-    print(data)
     return render_template('index.html', data=data)
 
 
