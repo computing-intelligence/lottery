@@ -1,0 +1,197 @@
+[2021-08-31 15:18:50 +0800] [726179] [INFO] Starting gunicorn 20.1.0
+[2021-08-31 15:18:50 +0800] [726179] [INFO] Listening at: http://0.0.0.0:15055 (726179)
+[2021-08-31 15:18:50 +0800] [726179] [INFO] Using worker: sync
+[2021-08-31 15:18:50 +0800] [726180] [INFO] Booting worker with pid: 726180
+[2021-08-31 15:18:50 +0800] [726181] [INFO] Booting worker with pid: 726181
+[2021-08-31 15:18:50 +0800] [726182] [INFO] Booting worker with pid: 726182
+[2021-08-31 15:18:50 +0800] [726183] [INFO] Booting worker with pid: 726183
+[2021-08-31 15:18:50 +0800] [726185] [INFO] Booting worker with pid: 726185
+[2021-08-31 15:18:50 +0800] [726186] [INFO] Booting worker with pid: 726186
+[2021-08-31 15:18:50 +0800] [726188] [INFO] Booting worker with pid: 726188
+[2021-08-31 15:18:50 +0800] [726189] [INFO] Booting worker with pid: 726189
+[2021-08-31 15:22:05 +0800] [726180] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726180] [INFO] Worker exiting (pid: 726180)
+[2021-08-31 15:22:05 +0800] [726181] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726181] [INFO] Worker exiting (pid: 726181)
+[2021-08-31 15:22:05 +0800] [726208] [INFO] Booting worker with pid: 726208
+[2021-08-31 15:22:05 +0800] [726182] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726182] [INFO] Worker exiting (pid: 726182)
+[2021-08-31 15:22:05 +0800] [726183] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726183] [INFO] Worker exiting (pid: 726183)
+[2021-08-31 15:22:05 +0800] [726185] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726185] [INFO] Worker exiting (pid: 726185)
+[2021-08-31 15:22:05 +0800] [726186] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726186] [INFO] Worker exiting (pid: 726186)
+[2021-08-31 15:22:05 +0800] [726209] [INFO] Booting worker with pid: 726209
+[2021-08-31 15:22:05 +0800] [726210] [INFO] Booting worker with pid: 726210
+[2021-08-31 15:22:05 +0800] [726188] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726188] [INFO] Worker exiting (pid: 726188)
+[2021-08-31 15:22:05 +0800] [726189] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:22:05 +0800] [726189] [INFO] Worker exiting (pid: 726189)
+[2021-08-31 15:22:05 +0800] [726212] [INFO] Booting worker with pid: 726212
+[2021-08-31 15:22:05 +0800] [726213] [INFO] Booting worker with pid: 726213
+[2021-08-31 15:22:05 +0800] [726215] [INFO] Booting worker with pid: 726215
+[2021-08-31 15:22:05 +0800] [726218] [INFO] Booting worker with pid: 726218
+[2021-08-31 15:22:05 +0800] [726221] [INFO] Booting worker with pid: 726221
+[2021-08-31 15:23:01 +0800] [726213] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726213] [INFO] Worker exiting (pid: 726213)
+[2021-08-31 15:23:01 +0800] [726215] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726215] [INFO] Worker exiting (pid: 726215)
+[2021-08-31 15:23:01 +0800] [726706] [INFO] Booting worker with pid: 726706
+[2021-08-31 15:23:01 +0800] [726218] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726218] [INFO] Worker exiting (pid: 726218)
+[2021-08-31 15:23:01 +0800] [726707] [INFO] Booting worker with pid: 726707
+[2021-08-31 15:23:01 +0800] [726708] [INFO] Booting worker with pid: 726708
+[2021-08-31 15:23:01 +0800] [726221] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726221] [INFO] Worker exiting (pid: 726221)
+[2021-08-31 15:23:01 +0800] [726711] [INFO] Booting worker with pid: 726711
+[2021-08-31 15:23:01 +0800] [726208] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726208] [INFO] Worker exiting (pid: 726208)
+[2021-08-31 15:23:01 +0800] [726714] [INFO] Booting worker with pid: 726714
+[2021-08-31 15:23:01 +0800] [726209] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726209] [INFO] Worker exiting (pid: 726209)
+[2021-08-31 15:23:01 +0800] [726210] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:01 +0800] [726210] [INFO] Worker exiting (pid: 726210)
+[2021-08-31 15:23:02 +0800] [726212] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:23:02 +0800] [726212] [INFO] Worker exiting (pid: 726212)
+[2021-08-31 15:23:02 +0800] [726715] [INFO] Booting worker with pid: 726715
+[2021-08-31 15:23:02 +0800] [726717] [INFO] Booting worker with pid: 726717
+[2021-08-31 15:23:02 +0800] [726719] [INFO] Booting worker with pid: 726719
+[2021-08-31 15:23:47 +0800] [726179] [CRITICAL] WORKER TIMEOUT (pid:726706)
+[2021-08-31 15:23:47 +0800] [726706] [INFO] Worker exiting (pid: 726706)
+[2021-08-31 15:23:47 +0800] [726722] [INFO] Booting worker with pid: 726722
+[2021-08-31 15:24:03 +0800] [726714] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726714] [INFO] Worker exiting (pid: 726714)
+[2021-08-31 15:24:03 +0800] [726725] [INFO] Booting worker with pid: 726725
+[2021-08-31 15:24:03 +0800] [726715] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726715] [INFO] Worker exiting (pid: 726715)
+[2021-08-31 15:24:03 +0800] [726726] [INFO] Booting worker with pid: 726726
+[2021-08-31 15:24:03 +0800] [726717] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726717] [INFO] Worker exiting (pid: 726717)
+[2021-08-31 15:24:03 +0800] [726719] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726719] [INFO] Worker exiting (pid: 726719)
+[2021-08-31 15:24:03 +0800] [726707] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726707] [INFO] Worker exiting (pid: 726707)
+[2021-08-31 15:24:03 +0800] [726722] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726722] [INFO] Worker exiting (pid: 726722)
+[2021-08-31 15:24:03 +0800] [726728] [INFO] Booting worker with pid: 726728
+[2021-08-31 15:24:03 +0800] [726708] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726708] [INFO] Worker exiting (pid: 726708)
+[2021-08-31 15:24:03 +0800] [726730] [INFO] Booting worker with pid: 726730
+[2021-08-31 15:24:03 +0800] [726711] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:24:03 +0800] [726711] [INFO] Worker exiting (pid: 726711)
+[2021-08-31 15:24:03 +0800] [726731] [INFO] Booting worker with pid: 726731
+[2021-08-31 15:24:03 +0800] [726734] [INFO] Booting worker with pid: 726734
+[2021-08-31 15:24:03 +0800] [726735] [INFO] Booting worker with pid: 726735
+[2021-08-31 15:24:03 +0800] [726737] [INFO] Booting worker with pid: 726737
+[2021-08-31 15:44:01 +0800] [726725] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726725] [INFO] Worker exiting (pid: 726725)
+[2021-08-31 15:44:01 +0800] [726726] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726726] [INFO] Worker exiting (pid: 726726)
+[2021-08-31 15:44:01 +0800] [726781] [INFO] Booting worker with pid: 726781
+[2021-08-31 15:44:01 +0800] [726728] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726728] [INFO] Worker exiting (pid: 726728)
+[2021-08-31 15:44:01 +0800] [726730] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726730] [INFO] Worker exiting (pid: 726730)
+[2021-08-31 15:44:01 +0800] [726782] [INFO] Booting worker with pid: 726782
+[2021-08-31 15:44:01 +0800] [726784] [INFO] Booting worker with pid: 726784
+[2021-08-31 15:44:01 +0800] [726731] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726734] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726731] [INFO] Worker exiting (pid: 726731)
+[2021-08-31 15:44:01 +0800] [726734] [INFO] Worker exiting (pid: 726734)
+[2021-08-31 15:44:01 +0800] [726786] [INFO] Booting worker with pid: 726786
+[2021-08-31 15:44:01 +0800] [726788] [INFO] Booting worker with pid: 726788
+[2021-08-31 15:44:01 +0800] [726737] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726735] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:44:01 +0800] [726737] [INFO] Worker exiting (pid: 726737)
+[2021-08-31 15:44:01 +0800] [726735] [INFO] Worker exiting (pid: 726735)
+[2021-08-31 15:44:01 +0800] [726789] [INFO] Booting worker with pid: 726789
+[2021-08-31 15:44:01 +0800] [726791] [INFO] Booting worker with pid: 726791
+[2021-08-31 15:44:01 +0800] [726793] [INFO] Booting worker with pid: 726793
+[2021-08-31 15:45:17 +0800] [726786] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:17 +0800] [726786] [INFO] Worker exiting (pid: 726786)
+[2021-08-31 15:45:18 +0800] [726800] [INFO] Booting worker with pid: 726800
+[2021-08-31 15:45:18 +0800] [726788] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726788] [INFO] Worker exiting (pid: 726788)
+[2021-08-31 15:45:18 +0800] [726789] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726789] [INFO] Worker exiting (pid: 726789)
+[2021-08-31 15:45:18 +0800] [726801] [INFO] Booting worker with pid: 726801
+[2021-08-31 15:45:18 +0800] [726791] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726791] [INFO] Worker exiting (pid: 726791)
+[2021-08-31 15:45:18 +0800] [726793] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726793] [INFO] Worker exiting (pid: 726793)
+[2021-08-31 15:45:18 +0800] [726803] [INFO] Booting worker with pid: 726803
+[2021-08-31 15:45:18 +0800] [726804] [INFO] Booting worker with pid: 726804
+[2021-08-31 15:45:18 +0800] [726806] [INFO] Booting worker with pid: 726806
+[2021-08-31 15:45:18 +0800] [726781] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726781] [INFO] Worker exiting (pid: 726781)
+[2021-08-31 15:45:18 +0800] [726810] [INFO] Booting worker with pid: 726810
+[2021-08-31 15:45:18 +0800] [726782] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726782] [INFO] Worker exiting (pid: 726782)
+[2021-08-31 15:45:18 +0800] [726811] [INFO] Booting worker with pid: 726811
+[2021-08-31 15:45:18 +0800] [726784] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:45:18 +0800] [726784] [INFO] Worker exiting (pid: 726784)
+[2021-08-31 15:45:18 +0800] [726813] [INFO] Booting worker with pid: 726813
+[2021-08-31 15:51:31 +0800] [726800] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:31 +0800] [726800] [INFO] Worker exiting (pid: 726800)
+[2021-08-31 15:51:31 +0800] [726825] [INFO] Booting worker with pid: 726825
+[2021-08-31 15:51:31 +0800] [726801] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:31 +0800] [726801] [INFO] Worker exiting (pid: 726801)
+[2021-08-31 15:51:31 +0800] [726826] [INFO] Booting worker with pid: 726826
+[2021-08-31 15:51:31 +0800] [726803] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:31 +0800] [726803] [INFO] Worker exiting (pid: 726803)
+[2021-08-31 15:51:31 +0800] [726804] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:31 +0800] [726804] [INFO] Worker exiting (pid: 726804)
+[2021-08-31 15:51:31 +0800] [726806] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:31 +0800] [726806] [INFO] Worker exiting (pid: 726806)
+[2021-08-31 15:51:31 +0800] [726828] [INFO] Booting worker with pid: 726828
+[2021-08-31 15:51:31 +0800] [726830] [INFO] Booting worker with pid: 726830
+[2021-08-31 15:51:31 +0800] [726832] [INFO] Booting worker with pid: 726832
+[2021-08-31 15:51:32 +0800] [726810] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:32 +0800] [726810] [INFO] Worker exiting (pid: 726810)
+[2021-08-31 15:51:32 +0800] [726835] [INFO] Booting worker with pid: 726835
+[2021-08-31 15:51:32 +0800] [726811] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:32 +0800] [726811] [INFO] Worker exiting (pid: 726811)
+[2021-08-31 15:51:32 +0800] [726836] [INFO] Booting worker with pid: 726836
+[2021-08-31 15:51:32 +0800] [726813] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:51:32 +0800] [726813] [INFO] Worker exiting (pid: 726813)
+[2021-08-31 15:51:32 +0800] [726838] [INFO] Booting worker with pid: 726838
+[2021-08-31 15:58:12 +0800] [726838] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:12 +0800] [726838] [INFO] Worker exiting (pid: 726838)
+[2021-08-31 15:58:12 +0800] [726850] [INFO] Booting worker with pid: 726850
+[2021-08-31 15:58:12 +0800] [726825] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:12 +0800] [726825] [INFO] Worker exiting (pid: 726825)
+[2021-08-31 15:58:12 +0800] [726851] [INFO] Booting worker with pid: 726851
+[2021-08-31 15:58:12 +0800] [726826] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:12 +0800] [726826] [INFO] Worker exiting (pid: 726826)
+[2021-08-31 15:58:12 +0800] [726853] [INFO] Booting worker with pid: 726853
+[2021-08-31 15:58:12 +0800] [726828] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:12 +0800] [726828] [INFO] Worker exiting (pid: 726828)
+[2021-08-31 15:58:13 +0800] [726855] [INFO] Booting worker with pid: 726855
+[2021-08-31 15:58:13 +0800] [726830] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:13 +0800] [726830] [INFO] Worker exiting (pid: 726830)
+[2021-08-31 15:58:13 +0800] [726857] [INFO] Booting worker with pid: 726857
+[2021-08-31 15:58:13 +0800] [726832] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:13 +0800] [726832] [INFO] Worker exiting (pid: 726832)
+[2021-08-31 15:58:13 +0800] [726859] [INFO] Booting worker with pid: 726859
+[2021-08-31 15:58:13 +0800] [726835] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:13 +0800] [726835] [INFO] Worker exiting (pid: 726835)
+[2021-08-31 15:58:13 +0800] [726836] [INFO] Worker reloading: /data/projects/lottery/app.py modified
+[2021-08-31 15:58:13 +0800] [726836] [INFO] Worker exiting (pid: 726836)
+[2021-08-31 15:58:13 +0800] [726862] [INFO] Booting worker with pid: 726862
+[2021-08-31 15:58:13 +0800] [726863] [INFO] Booting worker with pid: 726863
+[2021-08-31 15:58:37,925] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/lottery/lib/python3.9/site-packages/flask/app.py", line 2070, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/root/miniconda3/envs/lottery/lib/python3.9/site-packages/flask/app.py", line 1515, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/root/miniconda3/envs/lottery/lib/python3.9/site-packages/flask/app.py", line 1513, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/root/miniconda3/envs/lottery/lib/python3.9/site-packages/flask/app.py", line 1499, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/data/projects/lottery/app.py", line 14, in lottery
+    data = parse_data(jf.lucky_guys)
+  File "/data/projects/lottery/app.py", line 24, in parse_data
+    for key, value in reward_dict:
+ValueError: too many values to unpack (expected 2)
